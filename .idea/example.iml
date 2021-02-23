@@ -21,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/doc" />
       <excludeFolder url="file://$MODULE_DIR$/logs" />
       <excludeFolder url="file://$MODULE_DIR$/_build/test/lib/pubsub" />
+      <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/pubsub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,9 +5,14 @@
       <root url="file://$PROJECT_DIR$/_build/test/lib/pubsub/ebin" />
       <root url="file://$PROJECT_DIR$/_build/test/lib/pubsub/ebin" />
       <root url="file://$PROJECT_DIR$/_build/test/lib/pubsub/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/pubsub/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/pubsub/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/pubsub/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/pubsub/ebin" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/pubsub/lib" />
       <root url="file://$PROJECT_DIR$/deps/pubsub/lib" />
       <root url="file://$PROJECT_DIR$/deps/pubsub/lib" />
       <root url="file://$PROJECT_DIR$/deps/pubsub/lib" />
